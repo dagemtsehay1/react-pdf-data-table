@@ -1,0 +1,33 @@
+{
+  "name": "react-pdf-data-table",
+  "version": "0.0.1",
+  "description": "Table component for @react-pdf/renderer",
+  "main": "src/index.ts",
+  "files": ["src/**/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagemtsehay1/react-pdf-data-table.git"
+  },
+  "keywords": [
+    "data-table",
+    "react-pdf-data-table",
+    "react-pdf-table",
+    "react-pdf",
+    "react"
+  ],
+  "author": "Dagem Tsehay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dagemtsehay1/react-pdf-data-table/issues"
+  },
+  "homepage": "https://github.com/dagemtsehay1/react-pdf-data-table#readme",
+  "devDependencies": {
+    "@react-pdf/renderer": "^3.4.4",
+    "@tsconfig/recommended": "^1.0.6",
+    "@types/react": "^18.3.1",
+    "react": "^18.3.1"
+  }
+}
